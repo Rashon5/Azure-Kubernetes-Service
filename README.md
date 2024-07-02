@@ -9,6 +9,9 @@ This cluster is part of The Cloud Bootcamp project, and I prepared this new team
 
 I deployed it to Microsoft Azure cloud, where I first pushed the application's Docker image to Azure Container Registry (ACR) and then used the Azure Kubernetes Service (AKS) service to deploy a cluster managed by Microsoft Azure.
 
+# Video Demonstration: 
+[![Watch this YouTube video](https://img.youtube.com/vi/9HficAUqVBM/0.jpg)](https://www.youtube.com/watch?v=9HficAUqVBM)
+
 Steps to Deploy the Application
 1. Open CloudShell
 
